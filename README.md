@@ -1,0 +1,1 @@
+Learning Halo2 from the [0xparc learning resources](https://learn.0xparc.org/materials/halo2/learning-group-1/introduction).
